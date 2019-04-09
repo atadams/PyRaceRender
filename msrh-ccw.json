@@ -1,0 +1,148 @@
+{
+  "sections": [
+    {
+      "type": "straight",
+      "name": "S 17-1",
+      "start": 1,
+      "end": 203
+    },
+    {
+      "type": "turn",
+      "name": "T1",
+      "start": 204,
+      "end": 560
+    },
+    {
+      "type": "turn",
+      "name": "T2",
+      "start": 561,
+      "end": 2340
+    },
+    {
+      "type": "straight",
+      "name": "S 2-3",
+      "start": 2343,
+      "end": 3499
+    },
+    {
+      "type": "turn",
+      "name": "T3",
+      "start": 3500,
+      "end": 3950
+    },
+    {
+      "type": "turn",
+      "name": "T4",
+      "start": 4000,
+      "end": 4134
+    },
+    {
+      "type": "turn",
+      "name": "T5",
+      "start": 4134,
+      "end": 4420
+    },
+    {
+      "type": "turn",
+      "name": "T6",
+      "start": 4420,
+      "end": 5283
+    },
+    {
+      "type": "straight",
+      "name": "S 6-7",
+      "start": 5284,
+      "end": 6299
+    },
+    {
+      "type": "turn",
+      "name": "T7",
+      "start": 6300,
+      "end": 7078
+    },
+    {
+      "type": "turn",
+      "name": "T8",
+      "start": 7208,
+      "end": 7388
+    },
+    {
+      "type": "turn",
+      "name": "T9",
+      "start": 7388,
+      "end": 7670
+    },
+    {
+      "type": "turn",
+      "name": "T10",
+      "start": 7846,
+      "end": 8043
+    },
+    {
+      "type": "turn",
+      "name": "T11",
+      "start": 8043,
+      "end": 8561
+    },
+    {
+      "type": "turn",
+      "name": "T12",
+      "start": 8561,
+      "end": 8826
+    },
+    {
+      "type": "turn",
+      "name": "T13",
+      "start": 8826,
+      "end": 9340
+    },
+    {
+      "type": "straight",
+      "name": "S 13-14",
+      "start": 9341,
+      "end": 10045
+    },
+    {
+      "type": "turn",
+      "name": "T14",
+      "start": 10046,
+      "end": 10600
+    },
+    {
+      "type": "turn",
+      "name": "T15",
+      "start": 10600,
+      "end": 10959
+    },
+    {
+      "type": "turn",
+      "name": "T16",
+      "start": 10959,
+      "end": 11273
+    },
+    {
+      "type": "turn",
+      "name": "T17",
+      "start": 11273,
+      "end": 11694
+    }
+  ],
+  "sectors": [
+    {
+      "name": "S1",
+      "end": 3195
+    },
+    {
+      "name": "S2",
+      "end": 7150
+    },
+    {
+      "name": "S3",
+      "end": 9610
+    },
+    {
+      "name": "S4",
+      "end": 12266
+    }
+  ]
+}
